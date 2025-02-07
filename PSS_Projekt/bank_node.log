@@ -1,0 +1,123 @@
+2025-02-04 09:59:32,413 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-04 10:00:22,745 INFO: Nové spojení od 172.20.10.2:51226
+2025-02-04 10:00:27,747 INFO: Timeout spojení od 172.20.10.2:51226
+2025-02-04 10:00:27,747 INFO: Ukončení spojení od 172.20.10.2:51226
+2025-02-04 10:00:41,711 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-04 10:01:19,100 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-04 10:01:23,592 INFO: Nové spojení od 172.20.10.2:51235
+2025-02-04 10:01:28,593 INFO: Timeout spojení od 172.20.10.2:51235
+2025-02-04 10:01:28,594 INFO: Ukončení spojení od 172.20.10.2:51235
+2025-02-04 10:01:49,005 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-04 10:02:28,195 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-04 10:02:30,889 INFO: Nové spojení od 172.20.10.2:51243
+2025-02-04 10:02:35,890 INFO: Timeout spojení od 172.20.10.2:51243
+2025-02-04 10:02:35,891 INFO: Ukončení spojení od 172.20.10.2:51243
+2025-02-04 10:03:33,127 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-04 10:04:12,094 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-04 10:04:21,893 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-04 10:04:42,106 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-04 10:04:47,062 INFO: Nové spojení od 172.20.10.2:51261
+2025-02-04 10:04:52,064 INFO: Timeout spojení od 172.20.10.2:51261
+2025-02-04 10:04:52,064 INFO: Ukončení spojení od 172.20.10.2:51261
+2025-02-04 10:04:56,439 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-04 10:05:23,782 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-04 10:05:29,501 INFO: Nové spojení od 172.20.10.2:51265
+2025-02-04 10:05:30,096 INFO: Přijat příkaz od 172.20.10.2:51265: ac
+2025-02-04 10:07:14,932 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-05 13:02:55,422 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-05 13:02:55,423 INFO: Soubor bank_data.json neexistuje. Inicializuji prázdná data.
+2025-02-05 13:02:57,721 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-05 13:03:14,345 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-05 13:03:14,345 INFO: Soubor bank_data.json neexistuje. Inicializuji prázdná data.
+2025-02-05 13:03:17,590 INFO: Nové spojení od 172.20.10.2:51366
+2025-02-05 13:03:21,331 INFO: Přijat příkaz od 172.20.10.2:51366: bc
+2025-02-05 13:03:21,332 INFO: Odpověď odeslána 172.20.10.2:51366: BC 172.20.10.2
+2025-02-05 13:03:23,250 INFO: Přijat příkaz od 172.20.10.2:51366: ac
+2025-02-05 13:03:23,250 INFO: Vytvářím nový účet...
+2025-02-05 13:03:23,250 INFO: Účet 10000 vytvořen. Volám save()...
+2025-02-05 13:03:23,251 INFO: Ukládám data do souboru bank_data.json: {'last_account': 10000, 'accounts': {'10000': 0}}
+2025-02-05 13:03:23,253 INFO: Data úspěšně uložena.
+2025-02-05 13:03:23,253 INFO: Účet 10000 byl úspěšně vytvořen a data uložena.
+2025-02-05 13:03:23,253 INFO: Odpověď odeslána 172.20.10.2:51366: AC 10000/172.20.10.2
+2025-02-05 13:03:26,568 INFO: Přijat příkaz od 172.20.10.2:51366: bn
+2025-02-05 13:03:26,569 INFO: Odpověď odeslána 172.20.10.2:51366: BN 1
+2025-02-05 13:03:28,642 INFO: Přijat příkaz od 172.20.10.2:51366: ac
+2025-02-05 13:03:28,644 INFO: Vytvářím nový účet...
+2025-02-05 13:03:28,645 INFO: Účet 10001 vytvořen. Volám save()...
+2025-02-05 13:03:28,645 INFO: Ukládám data do souboru bank_data.json: {'last_account': 10001, 'accounts': {'10000': 0, '10001': 0}}
+2025-02-05 13:03:28,645 INFO: Data úspěšně uložena.
+2025-02-05 13:03:28,645 INFO: Účet 10001 byl úspěšně vytvořen a data uložena.
+2025-02-05 13:03:28,645 INFO: Odpověď odeslána 172.20.10.2:51366: AC 10001/172.20.10.2
+2025-02-05 13:03:29,951 INFO: Přijat příkaz od 172.20.10.2:51366: bn
+2025-02-05 13:03:29,951 INFO: Odpověď odeslána 172.20.10.2:51366: BN 2
+2025-02-05 13:03:32,883 INFO: Přijat příkaz od 172.20.10.2:51366: bc
+2025-02-05 13:03:32,883 INFO: Odpověď odeslána 172.20.10.2:51366: BC 172.20.10.2
+2025-02-05 13:03:37,884 INFO: Timeout spojení od 172.20.10.2:51366
+2025-02-05 13:03:37,885 INFO: Ukončení spojení od 172.20.10.2:51366
+2025-02-05 13:03:42,544 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-05 13:05:13,189 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-05 13:05:13,189 INFO: Data načtena ze souboru bank_data.json: {'last_account': 10001, 'accounts': {'10000': 0, '10001': 0}}
+2025-02-05 13:05:15,079 INFO: Nové spojení od 172.20.10.2:51375
+2025-02-05 13:05:17,461 INFO: Přijat příkaz od 172.20.10.2:51375: bc
+2025-02-05 13:05:17,462 INFO: Odpověď odeslána 172.20.10.2:51375: BC 172.20.10.2
+2025-02-05 13:05:19,668 INFO: Přijat příkaz od 172.20.10.2:51375: ac
+2025-02-05 13:05:19,669 INFO: Vytvářím nový účet...
+2025-02-05 13:05:19,669 INFO: Účet 10002 vytvořen. Volám save()...
+2025-02-05 13:05:19,669 INFO: Ukládám data do souboru bank_data.json: {'last_account': 10002, 'accounts': {'10000': 0, '10001': 0, '10002': 0}}
+2025-02-05 13:05:19,670 INFO: Data úspěšně uložena.
+2025-02-05 13:05:19,670 INFO: Účet 10002 byl úspěšně vytvořen a data uložena.
+2025-02-05 13:05:19,670 INFO: Odpověď odeslána 172.20.10.2:51375: AC 10002/172.20.10.2
+2025-02-05 13:05:21,802 INFO: Přijat příkaz od 172.20.10.2:51375: bn
+2025-02-05 13:05:21,803 INFO: Odpověď odeslána 172.20.10.2:51375: BN 3
+2025-02-05 13:05:23,294 INFO: Přijat příkaz od 172.20.10.2:51375: ad
+2025-02-05 13:05:23,294 INFO: Odpověď odeslána 172.20.10.2:51375: ER Příkaz AD má špatný formát.
+2025-02-05 13:05:28,296 INFO: Timeout spojení od 172.20.10.2:51375
+2025-02-05 13:05:28,296 INFO: Ukončení spojení od 172.20.10.2:51375
+2025-02-05 13:05:51,409 INFO: Ukončuji server (stisknuto Ctrl+C).
+2025-02-05 13:08:13,720 INFO: Spouštím bankovní node na IP 172.20.10.2 a portu 65525
+2025-02-05 13:08:13,720 INFO: Data načtena ze souboru bank_data.json: {'last_account': 10002, 'accounts': {'10000': 0, '10001': 0, '10002': 0}}
+2025-02-05 13:08:16,196 INFO: Nové spojení od 172.20.10.2:51407
+2025-02-05 13:08:18,020 INFO: Přijat příkaz od 172.20.10.2:51407: bn
+2025-02-05 13:08:18,021 INFO: Odpověď odeslána 172.20.10.2:51407: BN 3
+2025-02-05 13:08:22,654 INFO: Přijat příkaz od 172.20.10.2:51407: ac
+2025-02-05 13:08:22,654 INFO: Vytvářím nový účet...
+2025-02-05 13:08:22,654 INFO: Účet 10003 vytvořen. Volám save()...
+2025-02-05 13:08:22,654 INFO: Ukládám data do souboru bank_data.json: {'last_account': 10003, 'accounts': {'10000': 0, '10001': 0, '10002': 0, '10003': 0}}
+2025-02-05 13:08:22,656 INFO: Data úspěšně uložena.
+2025-02-05 13:08:22,656 INFO: Účet 10003 byl úspěšně vytvořen a data uložena.
+2025-02-05 13:08:22,656 INFO: Odpověď odeslána 172.20.10.2:51407: AC 10003/172.20.10.2
+2025-02-05 13:08:24,709 INFO: Přijat příkaz od 172.20.10.2:51407: ad
+2025-02-05 13:08:24,710 INFO: Odpověď odeslána 172.20.10.2:51407: ER Příkaz AD má špatný formát.
+2025-02-05 13:08:29,712 INFO: Timeout spojení od 172.20.10.2:51407
+2025-02-05 13:08:29,712 INFO: Ukončení spojení od 172.20.10.2:51407
+2025-02-05 13:08:29,763 INFO: Nové spojení od 172.20.10.2:51410
+2025-02-05 13:08:34,768 INFO: Timeout spojení od 172.20.10.2:51410
+2025-02-05 13:08:34,771 INFO: Ukončení spojení od 172.20.10.2:51410
+2025-02-05 13:08:41,813 INFO: Nové spojení od 172.20.10.2:51413
+2025-02-05 13:08:44,501 INFO: Přijat příkaz od 172.20.10.2:51413: bn
+2025-02-05 13:08:44,502 INFO: Odpověď odeslána 172.20.10.2:51413: BN 4
+2025-02-05 13:08:46,834 INFO: Přijat příkaz od 172.20.10.2:51413: bc
+2025-02-05 13:08:46,835 INFO: Odpověď odeslána 172.20.10.2:51413: BC 172.20.10.2
+2025-02-05 13:08:48,792 INFO: Přijat příkaz od 172.20.10.2:51413: bn
+2025-02-05 13:08:48,792 INFO: Odpověď odeslána 172.20.10.2:51413: BN 4
+2025-02-05 13:08:49,464 INFO: Přijat příkaz od 172.20.10.2:51413: bn
+2025-02-05 13:08:49,465 INFO: Odpověď odeslána 172.20.10.2:51413: BN 4
+2025-02-05 13:08:49,934 INFO: Přijat příkaz od 172.20.10.2:51413: bn
+2025-02-05 13:08:49,934 INFO: Odpověď odeslána 172.20.10.2:51413: BN 4
+2025-02-05 13:08:51,686 INFO: Přijat příkaz od 172.20.10.2:51413: bc
+2025-02-05 13:08:51,687 INFO: Odpověď odeslána 172.20.10.2:51413: BC 172.20.10.2
+2025-02-05 13:08:56,688 INFO: Timeout spojení od 172.20.10.2:51413
+2025-02-05 13:08:56,689 INFO: Ukončení spojení od 172.20.10.2:51413
+2025-02-05 13:09:39,909 INFO: Nové spojení od 172.20.10.2:51420
+2025-02-05 13:09:44,028 INFO: Přijat příkaz od 172.20.10.2:51420: ad 10001/172.20.10.2 3000
+2025-02-05 13:09:44,029 INFO: Ukládám data do souboru bank_data.json: {'last_account': 10003, 'accounts': {'10000': 0, '10001': 3000, '10002': 0, '10003': 0}}
+2025-02-05 13:09:44,031 INFO: Data úspěšně uložena.
+2025-02-05 13:09:44,031 INFO: Odpověď odeslána 172.20.10.2:51420: AD
+2025-02-05 13:09:49,033 INFO: Timeout spojení od 172.20.10.2:51420
+2025-02-05 13:09:49,033 INFO: Ukončení spojení od 172.20.10.2:51420
+2025-02-05 13:10:00,168 INFO: Nové spojení od 172.20.10.2:51422
+2025-02-05 13:10:02,329 INFO: Přijat příkaz od 172.20.10.2:51422: ab 10001/172.20.10.2
+2025-02-05 13:10:02,330 INFO: Odpověď odeslána 172.20.10.2:51422: AB 3000
+2025-02-05 13:10:07,331 INFO: Timeout spojení od 172.20.10.2:51422
+2025-02-05 13:10:07,334 INFO: Ukončení spojení od 172.20.10.2:51422
+2025-02-05 13:10:10,609 INFO: Ukončuji server (stisknuto Ctrl+C).
